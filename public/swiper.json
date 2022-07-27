@@ -1,0 +1,16 @@
+{
+  "banner": [
+    {
+      "id": 1,
+      "imgUrl": "https://img2.baidu.com/it/u=3365862890,3224750183&fm=253&fmt=auto&app=138&f=JPEG?w=658&h=300"
+    },
+    {
+        "id":2,
+        "imgUrl":"https://img1.baidu.com/it/u=2567784783,2085746861&fm=253&fmt=auto&app=138&f=JPEG?w=658&h=300"
+    },
+    {
+        "id":3,
+        "imgUrl":"https://img0.baidu.com/it/u=3928358421,3350525879&fm=253&fmt=auto&app=138&f=JPEG?w=658&h=300"
+    }
+  ]
+}
